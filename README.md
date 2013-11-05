@@ -9,9 +9,9 @@ This project is a ready to use template to start developing Web application base
 ### Hot to run it
 Project is already configured to be up and running.
 Just use:
-'mvn tomcat:run'
+`mvn tomcat:run`
 
 Next open in the browser:
-'http://localhost:8080/MavenSpringSitemeshTemplate'
+`http://localhost:8080/MavenSpringSitemeshTemplate`
 
 Example Welcome page with links to few examples will show up.
